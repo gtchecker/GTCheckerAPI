@@ -1,0 +1,29 @@
+{
+  "name": "gtchecker.com",
+  "version": "1.0.2",
+  "description": "Custom Module for interacting with GTChecker.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gtchecker",
+    "psn",
+    "xbox",
+    "gamertag",
+    "gamers",
+    "console",
+    "checker",
+    "usernames"
+  ],
+  "author": "Joker",
+  "license": "MIT",
+  "dependencies": {
+    "wumpfetch": "^0.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtchecker/GTCHECKER"
+  }
+}
