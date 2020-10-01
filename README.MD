@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3d47769b739a491cbdf2a2c612099bc5)](https://app.codacy.com/gh/gtchecker/GTCheckerAPI?utm_source=github.com&utm_medium=referral&utm_content=gtchecker/GTCheckerAPI&utm_campaign=Badge_Grade)
 [![NPM](https://nodei.co/npm/gtchecker.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gtchecker)
 
 # gtchecker
